@@ -1,0 +1,1 @@
+# automatization for small projects
