@@ -1,0 +1,13 @@
+body {
+  background-color: #ff0cff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 33px; }
+
+.qwe {
+  font-size: 13px;
+  font-weight: 300; }
+  .qwe:hover {
+    font-size: 15px; }
